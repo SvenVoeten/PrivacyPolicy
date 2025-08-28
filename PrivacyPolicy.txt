@@ -1,0 +1,5 @@
+# Privacybeleid voor mijn GPT
+
+Dit GPT slaat geen persoonlijke gegevens op.  
+Interactiegegevens kunnen worden gebruikt om AI-antwoorden te verbeteren.  
+Er worden geen persoonlijke gegevens verzameld of gedeeld.
